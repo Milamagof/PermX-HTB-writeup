@@ -1,6 +1,6 @@
 # PermX-HTB-Writeup
 
-## Exploration
+## 
 
 ### Initial Nmap Scan
 We begin by scanning the target machine using Nmap to identify open ports and services.
